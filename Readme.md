@@ -4,7 +4,7 @@
 - Navya Verma
 - Shreya Sisodia
 
-## Team Details
+## Research
 - Primary Research: Survey, Interview, Literature
 - 170 Respondents
 - 25 People surveyed
